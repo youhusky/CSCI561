@@ -1,5 +1,5 @@
-# @author Sagar Makwana
-#Final build updated on 02/08/2016 18:58pm Pacific Time
+# @author Joshua
+
 import sys
 
 #---------------------------------------Function Definitions------------------------------------------------
